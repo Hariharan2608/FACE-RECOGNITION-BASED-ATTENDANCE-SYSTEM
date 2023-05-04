@@ -17,7 +17,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository
 2. Install the required packages
-3. Run the `app.py` file
+3. Run the `final.py` file
 4. Upload images to test the system
 
 #### (Note : This project ony works on the trained images we used. If you need to check out yourself then you need to train your images withthe help of teachable machine the download the code and use it like me)
