@@ -1,8 +1,8 @@
 # Face Recognition Based Attendance System :camera: :clipboard:
 
-This project is an attendance system that uses face recognition technology. With this system, users can capture images of people and the system will recognize and mark their attendance. 
-
-The project was built using Streamlit framework with Python. For the image recognition part, we used Teachable Machine. 
+ - This project is an attendance system that uses face recognition technology.
+ - With this system, users can capture images of people and the system will recognize and mark their attendance. 
+ - The project was built using Streamlit framework with Python. For the image recognition part, we used Teachable Machine. 
 
 ## Features :rocket:
 
